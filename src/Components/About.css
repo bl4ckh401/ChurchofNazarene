@@ -1,0 +1,199 @@
+.Aboutus{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Aboutusimg{
+    background-image: url("/src/congregation.png");
+    width: 1366px;
+    font: normal normal normal 24px/26px Poppins;
+    display: flex;
+    flex-direction: column;
+    height: 448px;
+    opacity: 1;
+    padding-bottom: 10px;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.AboutTitle{
+    color: #CE0E3D;
+    font: normal normal bold 24px/26px Poppins;
+    text-transform: uppercase ;
+    padding: 12px;
+}
+.AboutSub{
+    color: #CE0E3D;
+    font: normal normal normal 22px/26px Poppins;
+    text-transform: uppercase ;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 12px;
+}
+.AboutMid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.MainCard{
+    display: flex;
+    flex-direction: column;
+    width: 1366px;
+    opacity: 1;
+    margin-top: 60px; 
+    background-color: #FFFFFF;   
+}
+.SubCard{
+    width: 1366px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    height: 402px;
+
+}
+.CardCont{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    padding-left: 90px;
+}
+.Card1{
+    width: 100%;
+    background-color: #CE0E3D;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #FFFFFF;
+    font: normal normal normal 16px/36px Poppins;
+    letter-spacing: 0;
+    flex-direction: column;
+
+}
+.CardText{
+    width: 474px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 24px;
+    margin-bottom: 50px;
+}
+.Line{
+    left: 140px;
+    width: 120px;
+    height: 0px;
+    border: 4px solid #FFFFFF;
+    opacity: 1;
+    margin-top: 12px;
+}
+.CardTitle{
+    text-align: left;
+    font: normal normal bold 38px/49px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.Card2{
+    background-image: url("/src/gddiVfu4mruUDpd9H8Qvs3a2xhuORn.png");
+    opacity: 1;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #FFFFFF;
+}
+.BigCards{
+    display: flex;
+    flex-direction: column;
+}
+.nada{
+    display: flex;
+    flex-direction: column;
+}
+.LeaderShipMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+.LeaderShipSub{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pgTitle{
+    text-align: left;
+    font: normal normal bold 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #CE0E3D;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.pgSubT{
+    width: 316px;
+    text-align: center;
+    font: normal normal bold 30px/49px Poppins;
+    letter-spacing: 0px;
+    color: #040404;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.Leader{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.LeaderProf{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 268px;
+    background: transparent url('/src/AtF0HV6GyqJCXDTCtlOHJdM2M62ceR.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    justify-content: flex-end;
+}
+.LeaderDesc{
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.LeaderDescIn{
+    padding: 31px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 66px;
+    background: #CE0E3D 0% 0% no-repeat padding-box;
+    box-shadow: 1px 3px 14px #00279108;
+    opacity: 1;
+}
+.LeaderName{
+    width: 159px;
+    text-align: left;
+    font: normal normal bold 13px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.LeaderPosition{
+    width: 104px;
+    text-align: left;
+    font: normal normal normal 13px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}

@@ -1,0 +1,150 @@
+.MainHomeTop{
+    background-image: url("/src/congregation.png");
+    width: 100vw;
+    height: 739px;
+    font: normal normal normal 17px/26px Poppins;
+    display: flex;
+    flex-direction: column;
+    opacity: 1;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.buttonHome{
+    top: 543px;
+    left: 611px;
+    width: 146px;
+    height: 56px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #CE0E3D;
+    border-radius: 28px;
+    opacity: 1;
+
+}
+.title{
+    top: 865px;
+    left: 139px;
+    width: 120px;
+    height: 28px;
+    text-align: left;
+    font-size: 12px;
+    font: normal normal bold 16px/22px Poppins;
+    letter-spacing: 0px;
+    color: #303030;
+    opacity: 1;
+}
+.expect{
+    top: 901px;
+    left: 139px;
+    width: 129px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 17px/26px Poppins;
+    letter-spacing: 0px;
+    color: #CE0E3D;
+    opacity: 1;
+}
+.RedCard{
+    top: 683px;
+    left: 875px;
+    width: 351px;
+    height: 469px;
+    background: #CE0E3D 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.RedCardTitle{
+    top: 810px;
+    left: 913px;
+    width: 271px;
+    height: 88px;
+    text-align: left;
+    font: normal normal bold 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.RedCardparagraph{
+    top: 968px;
+    left: 913px;
+    width: 298px;
+    height: 98px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.89;
+}
+
+.paragraph{
+    top: 968px;
+    left: 139px;
+    width: 298px;
+    height: 98px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #303030;
+    opacity: 1;
+}
+.icons{
+    top: 796px;
+    left: 139px;
+    width: 298px;
+    opacity: 1;
+}
+.divone{
+    top: 297px;
+    left: 501px;
+    width: 364px;
+    display: flex;
+    flex-direction: column;
+    height: 33px;
+    text-align: center;
+    font: bold 12px/29px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.divtwo{
+    top: 321px;
+    left: 417px;
+    width: 500px;
+    height: 70px;
+    text-align: center;
+    font: bold 56px/75px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+.borderLess{
+    top: 796px;
+    left: 139px;
+    width: 298px;
+    height: 270px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+
+}
+.divthree{
+    top: 433px;
+    left: 487px;
+    width: 392px;
+    height: 56px;
+    text-align: center;
+    font: bold 30px/55px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.SecondHometop{
+    width: 100%;
+    height:30%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
