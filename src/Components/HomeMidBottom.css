@@ -50,6 +50,7 @@
 .buttonDiv{
     display: flex;
     flex-direction: row;
+    width: fit-content;
 }
 .SermonMid{
     display: flex;
@@ -89,7 +90,7 @@
     opacity: 1;
     padding-top: 1.5rem;
 }
-.HomemidButtonii{
+.SermonmidButton{
     font: normal normal normal 16px/23px Poppins;
     padding-left: 0.75rem;
     display: flex;
@@ -108,10 +109,12 @@
     border-radius: 21px;
     opacity: 1;
 }
-.HomemidButton{
-    font: normal normal normal 16px/23px Poppins;
+.HomemidButtoniiii{
+    font: normal normal normal 12px/23px Poppins;
     padding-left: 0.75rem;
     display: flex;
+    width: 140px;
+    height: 42px;
     flex-direction: row;
     align-items: center;
     justify-content: center;
@@ -119,12 +122,10 @@
     text-align: left;
     color: #CE0E3D;   
     background-color: #ffffff;
-    border-radius: 28px;
     border: #CE0E3D 2px solid;
     padding: 1rem;
-    width: 121px;
-    height: 42px;
-    border-radius: 21px;
     opacity: 1;
+    border-radius: 21px;
     margin-left: 20px;
+
 }

@@ -4,7 +4,6 @@ import {AiOutlineArrowRight} from "react-icons/ai"
 import "./homebottom.css"
 
 
-
 function BlogCard() {
     return (
 <div class="flex w-screen flex-row justify-center items-center">

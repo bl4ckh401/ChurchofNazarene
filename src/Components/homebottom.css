@@ -1,6 +1,6 @@
 .HomeBottom{
     background-image: url("/src/gddiVfu4mruUDpd9H8Qvs3a2xhuORn.png");
-    width: 100vw;
+    width: 1366px;
     height: 402px;
     opacity: 1;
     display: flex;
@@ -77,7 +77,7 @@
     margin: 4px;
 }
 .blogMain{
-    width: 100vw;
+    width: 1366px;
     display: flex;
     flex-direction: column;
 }

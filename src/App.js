@@ -9,17 +9,16 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
   return (
     <div class="flex flex-col justify-center items-center">
-      <Router>
+   <Router>
       <Header />
-      <Switch>
-      <Route path={"/"} component={Home} exact/>
-      <Route path={"/About"} component={About} />
-      <Route path={"/Sermon"} component={Sermons} />
-      <Route path={"/Ministries"} component={Ministries} />
-      </Switch>
+              <Switch>
+                <Route path={"/"} component={Home} exact/>
+                <Route path={"/About"} component={About} />
+                <Route path={"/Sermons"} component={Sermons} />
+                <Route path={"/Ministries"} component={Ministries} />  
+                </Switch>
       <Footer />
-      </Router>
-
+   </Router>
     </div>
   );
 }

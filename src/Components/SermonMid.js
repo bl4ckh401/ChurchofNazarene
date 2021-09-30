@@ -20,12 +20,15 @@ function SermonMid() {
                     <p className="Homemidp">A small river named Duden flows by their place and supplies it with the neccesary regelia. It is a paradisematic country, in which roasted parts of sentences fly into their mouths</p>
                     <p className="Homemidp">A small river named Duden flows by their place and supplies it with the neccesary regelia. It is a paradisematic country, in which roasted parts of sentences fly into their mouths</p>
                 </div>
-                
                 <div class="flex justify-center items-center">
                 <div className="buttonDiv">
-                <button className="HomemidButtonii">Listen<span><FaHeadphonesAlt class="pl-2 h-7 w-8"/></span></button>
-                <button className="HomemidButton">Download<span><RiDownload2Line class="pl-1 h-7 w-8"/></span></button>
-                </div>                    
+                <div class="flex">
+                    <button className="SermonmidButton">Listen<span><FaHeadphonesAlt class="pl-2 h-7 w-8"/></span></button>
+                </div>
+                <div class="flex">
+                    <button className="HomemidButtoniiii">Download<span><RiDownload2Line class="pl-1 h-7 w-8"/></span></button>
+                </div>    
+                </div>  
                 </div>  
                 </div> 
 

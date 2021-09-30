@@ -13,6 +13,11 @@ function UpcomingCards() {
                         <img src={item.src} alt={item.alt} class="w-full"></img>
                     </div>
                     <div class="bg-white">
+                        <div class="flex flex-row-reverse">
+                            <div class="text-white text-5xl w-12 mr-20 mt-8  items-center justify-center h-12 bg-red-600">
+                                {item.day}
+                            </div>    
+                        </div>
                     <div class="w-full flex px-4 py-2">
                         <h2 class="text-xl">{item.topic}</h2>
                     </div>

@@ -1,5 +1,9 @@
 .UpcomingEvents{
-    width:100vw;
+    width:1366px;
     background-size: 50%;
     background: linear-gradient(180deg, #CE0E3D 50%, #FFFFFF 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;    
 }

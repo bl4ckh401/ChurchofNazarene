@@ -13,9 +13,6 @@ function HomeSermons() {
             </div>
                 <BorderedCards />
             </div>
-            <div>
-                <UpcomingEvents />
-            </div>
         </div>
     )
 }

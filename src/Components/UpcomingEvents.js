@@ -4,7 +4,7 @@ import "./UpcomingEvents.css"
 
 function UpcomingEvents() {
     return (
-        <div class="flex flex-col w-screen" className="UpcomingEvents">
+        <div className="UpcomingEvents">
             <div class="flex w-screen py-12 flex-col justify-center items-center">
                 <h2 class="text-white text-xl">UPCOMING EVENTS</h2>
                 <h1 class="text-white text-3xl">UNITED IN SPIRIT</h1>

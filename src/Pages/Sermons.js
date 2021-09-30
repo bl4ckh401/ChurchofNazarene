@@ -8,15 +8,13 @@ function Sermons() {
         <div className="Aboutus">
             <div className="Aboutusimg">
                 <div className="AboutTitle">
-                    <h1>Sermons</h1>
+                    <h1 class="text-white">Sermons</h1>
                 </div>
                 <div className="AboutSub">
-                    <h3>Home/Sermons</h3>
+                    <h3 class="text-white">Home/Sermons</h3>
                 </div>
             </div>
-            <div className="AboutMid">
             <SermonMid />
-            </div>
         </div>
     )
 }

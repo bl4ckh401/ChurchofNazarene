@@ -3,7 +3,7 @@ import "./HomeTop.css"
 
 function HomeTop() {
     return (
-        <div class="justify-center items-center">
+        <div className="HomeTop">
             <div className="MainHomeTop">
             <div className="divone">
                 <p >Building Holy and Healthy lifes</p>

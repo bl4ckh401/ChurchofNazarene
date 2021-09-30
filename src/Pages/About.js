@@ -9,10 +9,10 @@ function About() {
         <div className="Aboutus">
             <div className="Aboutusimg">
                 <div className="AboutTitle">
-                    <h1>About Us</h1>
+                    <h1 class="text-white">About Us</h1>
                 </div>
                 <div className="AboutSub">
-                    <h3>Home/About Us</h3>
+                    <h3 class="text-white">Home/About Us</h3>
                 </div>
             </div>
             <div className="AboutMid">
