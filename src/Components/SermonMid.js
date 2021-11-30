@@ -31,8 +31,6 @@ function SermonMid() {
                 </div>  
                 </div>  
                 </div> 
-
-            
             </div>
         </div>
         

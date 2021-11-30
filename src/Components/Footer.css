@@ -67,6 +67,7 @@
     flex-direction: row;
     align-items: center;
 }
+
 .copyrightMain{
     left: 535px;
     text-align: left;
@@ -74,7 +75,7 @@
     letter-spacing: 0.35px;
     color: #FFFFFF;
     opacity: 1;
-    width: 100vw;
+    width: 1366px;
     justify-content: center;
     align-items: center;
     display: flex;
